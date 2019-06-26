@@ -1,0 +1,167 @@
+[
+    {
+      "id": 0,
+      "title": "Происхождение",
+      "author": "Дэн Браун",
+      "image":
+        "https://s3-goods.ozstatic.by/2000/125/542/10/10542125_0.jpg",
+      "price": 16,
+      "rating": 3
+    },
+    {
+      "id": 1,
+      "title": "1984",
+      "author": "Джордж Оруэлл",
+      "image":
+        "https://s1-goods.ozstatic.by/2000/21/594/10/10594021_0.jpg",
+      "price": 6,
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "title": "Девушка в тумане",
+      "author": "Донато Карризи",
+      "image":
+        "https://s2-goods.ozstatic.by/2000/12/664/10/10664012_0.jpg",
+      "price": 10,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "title": "Империя должна умереть",
+      "author": "Михаил Зыгарь",
+      "image":
+        "https://s2-goods.ozstatic.by/2000/373/647/10/10647373_0.jpg",
+      "price": 18,
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "title": "Изучаем программирование на JavaScript",
+      "author": "ТЭ. Робсон, Эрик Фримен",
+      "image":
+        "https://s4-goods.ozstatic.by/2000/247/423/10/10423247_0.jpg",
+      "price": 36,
+      "rating": 1
+    },
+    {
+      "id": 5,
+      "title": "Тонкое искусство пофигизма. Парадоксальный способ жить счастливо",
+      "author": "Марк Мэнсон",
+      "image":
+        "https://s3-goods.ozstatic.by/2000/134/614/10/10614134_0.jpg",
+      "price": 13,
+      "rating": 0
+    },
+    {
+      "id": 6,
+      "title":
+        "Очаровательный кишечник. Как самый могущественный орган управляет нами",
+      "author": "Джулия Эндерс",
+      "image":
+        "https://s1-goods.ozstatic.by/2000/950/473/10/10473950_0.jpg",
+      "price": 10,
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "title": "iPhuck 10",
+      "author": "Виктор Пелевин",
+      "image":
+        "https://s3-goods.ozstatic.by/2000/805/639/10/10639805_0.jpg",
+      "price": 14,
+      "rating": 0
+    },
+    {
+      "id": 8,
+      "title": "7 навыков высокоэффективных людей: Мощные...",
+      "author": "Стивен Кови",
+      "image":
+        "https://s1-goods.ozstatic.by/2000/520/18/1/1018520_0.jpg",
+      "price": 17,
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "title": "Девушка во льду",
+      "author": "Роберт Брындза",
+      "image":
+        "https://s1-goods.ozstatic.by/2000/400/668/10/10668400_0.jpg",
+      "price": 8,
+      "rating": 2
+    },
+    {
+      "id": 10,
+      "title": "Магия утра. Как первый час дня определяет ваш успех",
+      "author": "Хэл Элрод",
+      "image":
+        "https://s1-goods.ozstatic.by/2000/641/503/10/10503641_0.jpg",
+      "price": 17,
+      "rating": 1
+    },
+    {
+      "id": 11,
+      "title":
+        "Азиатская европеизация. История Российского государства. Царь Петр...",
+      "author": "Борис Акунин",
+      "image":
+        "https://s2-goods.ozstatic.by/2000/992/651/10/10651992_0.jpg",
+      "price": 27,
+      "rating": 2
+    },
+    {
+      "id": 12,
+      "title": "Ведьмак (сборник)",
+      "author": "Анджей Сапковский",
+      "image":
+        "https://s2-goods.ozstatic.by/2000/513/245/10/10245513_0.jpg",
+      "price": 36,
+      "rating": 3
+    },
+    {
+      "id": 13,
+      "title": "Атлант расправил плечи",
+      "author": "Айн Рэнд",
+      "image":
+        "https://s2-goods.ozstatic.by/2000/283/29/1/1029283_0.jpg",
+      "price": 20,
+      "rating": 2
+    },
+    {
+      "id": 14,
+      "title": "Мифы Ктулху",
+      "author": "Говард Лавкрафт",
+      "image":
+        "https://s2-goods.ozstatic.by/2000/732/570/10/10570732_0.jpg",
+      "price": 4,
+      "rating": 0
+    },
+    {
+      "id": 15,
+      "title": "Исчезнувшая",
+      "author": "Гиллиан Флинн",
+      "image":
+        "https://s4-goods.ozstatic.by/2000/707/395/10/10395707_0.jpg",
+      "price": 10,
+      "rating": 4
+    },
+    {
+      "id": 17,
+      "title": "Метро 2035",
+      "author": "Дмитрий Глуховский",
+      "image":
+        "https://s3-goods.ozstatic.by/2000/124/796/10/10796124_0.jpg",
+      "price": 12,
+      "rating": 4
+    },
+    {
+      "id": 19,
+      "title":
+        "Как тренировать память. Не думайте о памяти – лучше используйте ее на все сто!",
+      "author": "Джонатан Хэнкок",
+      "image":
+        "https://s2-goods.ozstatic.by/2000/943/290/10/10290943_0.jpg",
+      "price": 60,
+      "rating": 5
+    }
+]
