@@ -1,0 +1,113 @@
+$hand-cursor: pointer;
+$menu-height: 50px;
+
+
+.menu {
+    div a {
+        text-decoration: none;
+        color: black !important;
+    }
+
+    &-header {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        border-radius: 3px;
+        margin-bottom: 20px;
+        height: $menu-height;
+        margin: 5px;
+        cursor: $hand-cursor;
+        border: 3px solid greenyellow;
+    }
+
+    &-left {
+        display: inline-block;
+        flex-grow: 1;
+        padding: 12px;
+    }
+
+    &-right {
+        border-left: 1px solid grey;
+        padding: 12px;
+    }
+}
+
+.secondary_menu {
+    display: flex;
+    margin: 5px;
+    cursor: $hand-cursor;
+
+    a {
+        text-decoration: none;
+        color: black !important;
+    }
+    
+    .item {
+        border-radius: 3px;
+        height: $menu-height;
+        padding: 12px;
+        margin: 10px;
+        background-color: rgb(223, 219, 219);
+    }
+
+    input {
+        height: $menu-height;
+        margin: 10px;
+        border-radius: 3px;
+        outline: none !important;
+        border: 1px solid lightgrey;
+        text-align: center;
+    }
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 15px;
+    
+    
+    &-total {
+        width: 260px;
+        height: 400px;
+        margin: 15px;
+        border-radius: 3px;
+        padding: 10px;
+    }
+
+    &-image {
+        border-bottom: 1px solid grey;
+        height: 300px;
+        margin: 0 auto;
+        padding: 5px;
+        
+        img {
+            width: 200px;
+            height: 290px;
+        }
+    }
+
+    button {
+        outline: none;
+        border: none;
+        background-color: rgb(5, 204, 5);
+        border-radius: 3px;
+        height: 40px;
+        cursor: $hand-cursor;
+        margin-top: 10px;
+    }
+}
+
+.button {
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    cursor: $hand-cursor;
+    background-color: red;
+    height: 30px;
+    color: white;
+}
+
+
+
+    
